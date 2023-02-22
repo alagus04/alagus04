@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://github.com/alagus04/alagus04/blob/main/header.png" alt="banner">
 
 <div align="center">
 <img src="https://github.com/alagus04/alagus04/blob/main/header.png" align="center" style="width: 100%" />
@@ -98,9 +97,7 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<br/>    
 
 <br/>  
 
