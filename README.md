@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div align="center">
 <img src="https://github.com/alagus04/alagus04/blob/main/header.png" align="center" style="width: 100%" />
@@ -14,7 +13,9 @@
 - 🌱 I’m currently learning Machine Learning and Cloud!  
   
 
-- ⚡ Fun fact: My name rhymes!  
+- ⚡ Fun fact: My name rhymes! 
+
+- 📫 How to reach me: Email me at <a href="mailto:asellappan@g.ucla.edu">asellappan@g.ucla.edu</a>
   
 
 <br/>  
