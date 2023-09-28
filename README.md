@@ -7,10 +7,12 @@
 ### <div align="center">I'm Alagappan, an undergraduate freshman at UCLA studying Computational and Systems Biology!</div>  
   
 
-- 🔭 I’m currently working on USWAP, a start-up based out of UCLA to create a marketplace for college students!  
+- 🔭 I’m currently working on USWAP, a start-up based out of UCLA to create a marketplace for college students!
+
+- 🔭 I’m currently working for UCLA Health as a Software Developer in the Software Development Unit R&D Division. 
   
 
-- 🌱 I’m currently learning Machine Learning and Cloud!  
+- 🌱 I’m currently learning Machine Learning, Cloud, and Generative AI  
   
 
 - ⚡ Fun fact: My name rhymes! 
