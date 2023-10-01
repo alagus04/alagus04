@@ -7,13 +7,17 @@
 ### <div align="center">I'm Alagappan, an undergraduate sophomore at UCLA studying Computational and Systems Biology!</div>  
 
 
-- 🔭 I’m currently working for UCLA Health as a Software Developer in the Software Development Unit R&D Division. 
+- 🔭 I’m currently working for UCLA Health as a Software Developer in the Software Development Unit R&D Division.
+  
+
+- 🔍 I'm currently researching at the David Geffen School of Medicine as a Biological Data Science Research Member focusing on -omics data.
   
 
 - 🌱 I’m currently learning Machine Learning, Cloud, and Generative AI  
   
 
-- ⚡ Fun fact: My name rhymes! 
+- ⚡ Fun fact: My name rhymes!
+  
 
 - 📫 How to reach me: Email me at <a href="mailto:asellappan@g.ucla.edu">asellappan@g.ucla.edu</a>
   
