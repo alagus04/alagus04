@@ -7,7 +7,7 @@
 ### <div align="center">I'm Alagappan, an undergraduate sophomore at UCLA studying Computational and Systems Biology!</div>  
 
 
-- 🔭 I’m currently working for UCLA Health as a Software Developer in the Software Development Unit R&D Division.
+- 🔭 I’m currently working for FOX Corporation as a Spring 2024 Tech Intern in the Commercial Advertisement Technology team as part of the Data Group within FOX Tech.
   
 
 - 🔍 I'm currently researching at the David Geffen School of Medicine as a Biological Data Science Research Member focusing on -omics data.
