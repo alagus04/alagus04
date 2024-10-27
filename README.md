@@ -4,19 +4,16 @@
 </div>  
   
 
-### <div align="center">I'm Alagappan, an undergraduate sophomore at UCLA studying Computational and Systems Biology!</div>  
+### <div align="center">I'm Alagappan, an undergraduate junior at UCLA studying Cognitive Science with a Computing Specialization!</div>  
 
 
-- 🔭 I’m currently working for FOX Corporation as a Spring 2024 Tech Intern in the Commercial Advertisement Technology team as part of the Data Group within FOX Tech.
+- 🔭 I’m currently working for SoCalGas as a Data Engineering and Asset Strategy Intern in the Enterprise Asset Management and Data Foundations team. Previously, I was an R&D Technical Product Management and Data Science Intern at Exact Sciences and a SWE Intern at FOX Corporation.
   
 
-- 🔍 I'm currently researching at the David Geffen School of Medicine as a Biological Data Science Research Member focusing on -omics data.
+- 🌱 I’m currently learning Machine Learning, Cloud, and Generative AI!
   
 
-- 🌱 I’m currently learning Machine Learning, Cloud, and Generative AI  
-  
-
-- ⚡ Fun fact: My name rhymes!
+- ⚡ Fun fact: I am obsessed with spicy dishes that tests my spice tolerance.
   
 
 - 📫 How to reach me: Email me at <a href="mailto:asellappan@g.ucla.edu">asellappan@g.ucla.edu</a>
